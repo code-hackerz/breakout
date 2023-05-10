@@ -1,0 +1,12 @@
+body {
+  place-content: center;
+  font-size: 2vw;
+  white-space: pre; /* multiple whitespace is not collapsed */
+  text-align: center;
+}
+
+canvas {
+  background: #eee;
+  display: block;
+  margin: 0 auto;
+}
